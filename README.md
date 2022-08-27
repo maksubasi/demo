@@ -11,4 +11,6 @@ List Project 2022
 <p><p>https://one-disperse.vercel.app</p>
 <p>https://velas-app.vercel.app</p>
 <p>https://hpb-app.vercel.app</p>
+<p>https://rei-app.vercel.app</p>
+<p>https://rei-disperse.vercel.app</p>
 
